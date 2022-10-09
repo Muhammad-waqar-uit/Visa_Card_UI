@@ -1,4 +1,4 @@
-# untitled
+# context
 
 A new Flutter project.
 
@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Visa_Card_UI
+![Screenshot from 2022-10-10 01-07-33](https://user-images.githubusercontent.com/57596726/194777385-c477fb16-0566-42ff-bc7b-9ec4179ab20d.png)
+
+# Packages used
+- Flutter Svg
+- google fonts
